@@ -1,0 +1,6 @@
+El login permite identificar a un usuario antes de darle acceso a una aplicación.
+ De esta forma, cada persona puede acceder únicamente a las funciones que le corresponden.
+ Algunas rutas deben estar protegidas porque contienen información privada o permiten 
+ cambios importantes. Esto ayuda a evitar accesos no autorizados y protege la seguridad 
+sistema. Además, no deben exponerse públicamente contraseñas, documentos de identidad,
+teléfonos, direcciones, tokens ni otros datos sensibles de los usuarios.

@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar el trabajo de un equipo de forma clara y ordenada. El uso de un
+backlog permite priorizar las tareas más importantes y las iteraciones facilitan mejorar el proyecto de 
+manera continua. La automatización con herramientas como n8n reduce el tiempo dedicado a tareas repetitivas
+y mejora la coordinación. Telegram también es útil para enviar avisos y mantener una comunicación rápida
+entre los integrantes. Estas herramientas favorecen el seguimiento de las actividades y el trabajo
+colaborativo. Sin embargo, es importante usarlas con responsabilidad y proteger la información personal.
+Además, siempre debe existir una revisión humana para evitar errores. En conjunto, estas prácticas
+permiten que una comunidad trabaje de forma más organizada y eficiente.
